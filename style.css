@@ -1,0 +1,5 @@
+body{background-image: url(img/pattern.png);}
+h1{color: #00FFFF; text-align: left; font-family: Arial; }
+h2{color:	#FFB6C1; font-style: italic; font-family: Berlin Sans FB Demi;}
+p{color:	white; font-style: underline; text-align: left; font-family: Arial Rounded MT Bold; }
+img{border-style:dashed; border-color:#FFFF00; position: center; }
